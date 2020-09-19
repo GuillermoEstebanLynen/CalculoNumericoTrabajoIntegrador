@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "maedIvC8fDH23/FQNsQkD7us+yPUMMzecL+kVRBXOCCLbmYWj/C/Fpl4RKPrYOTYJY2OtHEdyHJx8A9n9//knw==",
+  "dgSpecHash": "PeZ/Hx+t76YeagvR2PttA53wz6zOTEvZq4iY80H2dl3xzF6AhtVyjzbJn/FmlnLSR7LKcZVVQ7ynw18whQiQpw==",
   "success": true,
-  "projectFilePath": "F:\\Calculo Numerico\\Trabajo Integrador\\Clases\\Clases.csproj",
+  "projectFilePath": "E:\\ISTEA\\Calculo Numerico\\Trabajo Integrador\\Clases\\Clases.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Guillermo Lynen\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Guillermo Lynen\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

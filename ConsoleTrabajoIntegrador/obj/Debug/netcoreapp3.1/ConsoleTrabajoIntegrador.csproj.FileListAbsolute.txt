@@ -1,0 +1,13 @@
+F:\Calculo Numerico\Trabajo Integrador\ConsoleTrabajoIntegrador\obj\Debug\netcoreapp3.1\ConsoleTrabajoIntegrador.csprojAssemblyReference.cache
+F:\Calculo Numerico\Trabajo Integrador\ConsoleTrabajoIntegrador\obj\Debug\netcoreapp3.1\ConsoleTrabajoIntegrador.AssemblyInfoInputs.cache
+F:\Calculo Numerico\Trabajo Integrador\ConsoleTrabajoIntegrador\obj\Debug\netcoreapp3.1\ConsoleTrabajoIntegrador.AssemblyInfo.cs
+F:\Calculo Numerico\Trabajo Integrador\ConsoleTrabajoIntegrador\obj\Debug\netcoreapp3.1\ConsoleTrabajoIntegrador.csproj.CoreCompileInputs.cache
+F:\Calculo Numerico\Trabajo Integrador\ConsoleTrabajoIntegrador\bin\Debug\netcoreapp3.1\ConsoleTrabajoIntegrador.exe
+F:\Calculo Numerico\Trabajo Integrador\ConsoleTrabajoIntegrador\bin\Debug\netcoreapp3.1\ConsoleTrabajoIntegrador.deps.json
+F:\Calculo Numerico\Trabajo Integrador\ConsoleTrabajoIntegrador\bin\Debug\netcoreapp3.1\ConsoleTrabajoIntegrador.runtimeconfig.json
+F:\Calculo Numerico\Trabajo Integrador\ConsoleTrabajoIntegrador\bin\Debug\netcoreapp3.1\ConsoleTrabajoIntegrador.runtimeconfig.dev.json
+F:\Calculo Numerico\Trabajo Integrador\ConsoleTrabajoIntegrador\bin\Debug\netcoreapp3.1\ConsoleTrabajoIntegrador.dll
+F:\Calculo Numerico\Trabajo Integrador\ConsoleTrabajoIntegrador\bin\Debug\netcoreapp3.1\ConsoleTrabajoIntegrador.pdb
+F:\Calculo Numerico\Trabajo Integrador\ConsoleTrabajoIntegrador\obj\Debug\netcoreapp3.1\ConsoleTrabajoIntegrador.dll
+F:\Calculo Numerico\Trabajo Integrador\ConsoleTrabajoIntegrador\obj\Debug\netcoreapp3.1\ConsoleTrabajoIntegrador.pdb
+F:\Calculo Numerico\Trabajo Integrador\ConsoleTrabajoIntegrador\obj\Debug\netcoreapp3.1\ConsoleTrabajoIntegrador.genruntimeconfig.cache

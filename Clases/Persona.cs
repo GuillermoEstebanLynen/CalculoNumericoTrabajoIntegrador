@@ -2,7 +2,8 @@
 
 namespace Clases
 {
-    public class Class1
+    public class Persona
     {
+
     }
 }
