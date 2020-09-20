@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Net;
 using System.Text;
 
 namespace ConsoleTrabajoIntegrador
@@ -9,8 +10,11 @@ namespace ConsoleTrabajoIntegrador
 
         public static void DibujarMenu(string encabezado, List<string> opciones)
         {
+            Console.ForegroundColor = ConsoleColor.White;
+            Console.BackgroundColor = ConsoleColor.DarkCyan;
             DibujarEncabezado(encabezado);
             DibujarOpciones(opciones);
+            SetTextNormal();
         }
 
         public static void DibujarEncabezado(string encabezado)
@@ -30,6 +34,24 @@ namespace ConsoleTrabajoIntegrador
                 contador++;
             }
 
+        }
+
+        public static void SetTextNormal()
+        {
+            Console.ForegroundColor = ConsoleColor.White;
+            Console.BackgroundColor = ConsoleColor.Black;
+        }
+
+        public static void SetTextError()
+        {
+            Console.ForegroundColor = ConsoleColor.White;
+            Console.BackgroundColor = ConsoleColor.Red;
+        }
+
+        public static void SetTextSucess()
+        {
+            Console.ForegroundColor = ConsoleColor.White;
+            Console.BackgroundColor = ConsoleColor.Green;
         }
 
     }
