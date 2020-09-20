@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clases", "Clases\Clases.csproj", "{5DBB9AD0-93A7-40D1-9A20-9F77E93A699E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleTrabajoIntegrador", "ConsoleTrabajoIntegrador\ConsoleTrabajoIntegrador.csproj", "{5964F103-4292-4202-A65E-DC62B69754DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleTrabajoIntegrador", "ConsoleTrabajoIntegrador\ConsoleTrabajoIntegrador.csproj", "{5964F103-4292-4202-A65E-DC62B69754DB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

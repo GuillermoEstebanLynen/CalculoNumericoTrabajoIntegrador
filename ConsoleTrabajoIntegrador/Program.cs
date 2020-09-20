@@ -6,6 +6,7 @@ namespace ConsoleTrabajoIntegrador
     {
         static void Main(string[] args)
         {
+            CargaInicial();
             Menus.Home();
         }
     }
