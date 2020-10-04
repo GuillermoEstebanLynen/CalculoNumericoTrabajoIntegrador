@@ -7,12 +7,3 @@ E:\ISTEA\Calculo Numerico\Trabajo Integrador\Clases\obj\Debug\netstandard2.0\Com
 E:\ISTEA\Calculo Numerico\Trabajo Integrador\Clases\obj\Debug\netstandard2.0\ComercioModelo.dll
 E:\ISTEA\Calculo Numerico\Trabajo Integrador\Clases\obj\Debug\netstandard2.0\ComercioModelo.pdb
 E:\ISTEA\Calculo Numerico\Trabajo Integrador\Clases\obj\Debug\netstandard2.0\ComercioModelo.csprojAssemblyReference.cache
-E:\ISTEA\Calculo Numerico\CalculoNumericoTrabajoIntegrador\Clases\bin\Debug\netstandard2.0\ComercioModelo.deps.json
-E:\ISTEA\Calculo Numerico\CalculoNumericoTrabajoIntegrador\Clases\bin\Debug\netstandard2.0\ComercioModelo.dll
-E:\ISTEA\Calculo Numerico\CalculoNumericoTrabajoIntegrador\Clases\bin\Debug\netstandard2.0\ComercioModelo.pdb
-E:\ISTEA\Calculo Numerico\CalculoNumericoTrabajoIntegrador\Clases\obj\Debug\netstandard2.0\ComercioModelo.csprojAssemblyReference.cache
-E:\ISTEA\Calculo Numerico\CalculoNumericoTrabajoIntegrador\Clases\obj\Debug\netstandard2.0\ComercioModelo.AssemblyInfoInputs.cache
-E:\ISTEA\Calculo Numerico\CalculoNumericoTrabajoIntegrador\Clases\obj\Debug\netstandard2.0\ComercioModelo.AssemblyInfo.cs
-E:\ISTEA\Calculo Numerico\CalculoNumericoTrabajoIntegrador\Clases\obj\Debug\netstandard2.0\ComercioModelo.csproj.CoreCompileInputs.cache
-E:\ISTEA\Calculo Numerico\CalculoNumericoTrabajoIntegrador\Clases\obj\Debug\netstandard2.0\ComercioModelo.dll
-E:\ISTEA\Calculo Numerico\CalculoNumericoTrabajoIntegrador\Clases\obj\Debug\netstandard2.0\ComercioModelo.pdb
