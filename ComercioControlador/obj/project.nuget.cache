@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6fEfWmOiP/fOWLSYY/zWR3GoGlUz0QjpYSfL4TdLn0GklCy0gXRzdxeDZBeubFuC1MsDJslXXYe3MUdAH9zlHw==",
+  "dgSpecHash": "qgrYENAxYhQgb2n84AfGDAt+8Gpdqa+oBgBDGf54V4fKqe7HySwIaxy0afz97+RXuIWMC7WMOA/tyr9paBlyYg==",
   "success": true,
-  "projectFilePath": "E:\\ISTEA\\Calculo Numerico\\Trabajo Integrador\\ComercioControlador\\ComercioControlador.csproj",
+  "projectFilePath": "E:\\ISTEA\\Calculo Numerico\\CalculoNumericoTrabajoIntegrador\\ComercioControlador\\ComercioControlador.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Guillermo Lynen\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Guillermo Lynen\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

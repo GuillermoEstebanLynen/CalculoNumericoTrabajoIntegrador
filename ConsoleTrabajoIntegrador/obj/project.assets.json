@@ -50,11 +50,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\ISTEA\\Calculo Numerico\\Trabajo Integrador\\ConsoleTrabajoIntegrador\\ConsoleTrabajoIntegrador.csproj",
+      "projectUniqueName": "E:\\ISTEA\\Calculo Numerico\\CalculoNumericoTrabajoIntegrador\\ConsoleTrabajoIntegrador\\ConsoleTrabajoIntegrador.csproj",
       "projectName": "ConsoleTrabajoIntegrador",
-      "projectPath": "E:\\ISTEA\\Calculo Numerico\\Trabajo Integrador\\ConsoleTrabajoIntegrador\\ConsoleTrabajoIntegrador.csproj",
+      "projectPath": "E:\\ISTEA\\Calculo Numerico\\CalculoNumericoTrabajoIntegrador\\ConsoleTrabajoIntegrador\\ConsoleTrabajoIntegrador.csproj",
       "packagesPath": "C:\\Users\\Guillermo Lynen\\.nuget\\packages\\",
-      "outputPath": "E:\\ISTEA\\Calculo Numerico\\Trabajo Integrador\\ConsoleTrabajoIntegrador\\obj\\",
+      "outputPath": "E:\\ISTEA\\Calculo Numerico\\CalculoNumericoTrabajoIntegrador\\ConsoleTrabajoIntegrador\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Guillermo Lynen\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -70,8 +70,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "E:\\ISTEA\\Calculo Numerico\\Trabajo Integrador\\ComercioControlador\\ComercioControlador.csproj": {
-              "projectPath": "E:\\ISTEA\\Calculo Numerico\\Trabajo Integrador\\ComercioControlador\\ComercioControlador.csproj"
+            "E:\\ISTEA\\Calculo Numerico\\CalculoNumericoTrabajoIntegrador\\ComercioControlador\\ComercioControlador.csproj": {
+              "projectPath": "E:\\ISTEA\\Calculo Numerico\\CalculoNumericoTrabajoIntegrador\\ComercioControlador\\ComercioControlador.csproj"
             }
           }
         }

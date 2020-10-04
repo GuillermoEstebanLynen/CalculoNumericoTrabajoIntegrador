@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\ISTEA\\Calculo Numerico\\Trabajo Integrador\\ComercioControlador\\ComercioControlador.csproj": {}
+    "E:\\ISTEA\\Calculo Numerico\\CalculoNumericoTrabajoIntegrador\\ComercioControlador\\ComercioControlador.csproj": {}
   },
   "projects": {
-    "E:\\ISTEA\\Calculo Numerico\\Trabajo Integrador\\Clases\\ComercioModelo.csproj": {
+    "E:\\ISTEA\\Calculo Numerico\\CalculoNumericoTrabajoIntegrador\\Clases\\ComercioModelo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ISTEA\\Calculo Numerico\\Trabajo Integrador\\Clases\\ComercioModelo.csproj",
+        "projectUniqueName": "E:\\ISTEA\\Calculo Numerico\\CalculoNumericoTrabajoIntegrador\\Clases\\ComercioModelo.csproj",
         "projectName": "ComercioModelo",
-        "projectPath": "E:\\ISTEA\\Calculo Numerico\\Trabajo Integrador\\Clases\\ComercioModelo.csproj",
+        "projectPath": "E:\\ISTEA\\Calculo Numerico\\CalculoNumericoTrabajoIntegrador\\Clases\\ComercioModelo.csproj",
         "packagesPath": "C:\\Users\\Guillermo Lynen\\.nuget\\packages\\",
-        "outputPath": "E:\\ISTEA\\Calculo Numerico\\Trabajo Integrador\\Clases\\obj\\",
+        "outputPath": "E:\\ISTEA\\Calculo Numerico\\CalculoNumericoTrabajoIntegrador\\Clases\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Guillermo Lynen\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,14 +59,14 @@
         }
       }
     },
-    "E:\\ISTEA\\Calculo Numerico\\Trabajo Integrador\\ComercioControlador\\ComercioControlador.csproj": {
+    "E:\\ISTEA\\Calculo Numerico\\CalculoNumericoTrabajoIntegrador\\ComercioControlador\\ComercioControlador.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ISTEA\\Calculo Numerico\\Trabajo Integrador\\ComercioControlador\\ComercioControlador.csproj",
+        "projectUniqueName": "E:\\ISTEA\\Calculo Numerico\\CalculoNumericoTrabajoIntegrador\\ComercioControlador\\ComercioControlador.csproj",
         "projectName": "ComercioControlador",
-        "projectPath": "E:\\ISTEA\\Calculo Numerico\\Trabajo Integrador\\ComercioControlador\\ComercioControlador.csproj",
+        "projectPath": "E:\\ISTEA\\Calculo Numerico\\CalculoNumericoTrabajoIntegrador\\ComercioControlador\\ComercioControlador.csproj",
         "packagesPath": "C:\\Users\\Guillermo Lynen\\.nuget\\packages\\",
-        "outputPath": "E:\\ISTEA\\Calculo Numerico\\Trabajo Integrador\\ComercioControlador\\obj\\",
+        "outputPath": "E:\\ISTEA\\Calculo Numerico\\CalculoNumericoTrabajoIntegrador\\ComercioControlador\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Guillermo Lynen\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "E:\\ISTEA\\Calculo Numerico\\Trabajo Integrador\\Clases\\ComercioModelo.csproj": {
-                "projectPath": "E:\\ISTEA\\Calculo Numerico\\Trabajo Integrador\\Clases\\ComercioModelo.csproj"
+              "E:\\ISTEA\\Calculo Numerico\\CalculoNumericoTrabajoIntegrador\\Clases\\ComercioModelo.csproj": {
+                "projectPath": "E:\\ISTEA\\Calculo Numerico\\CalculoNumericoTrabajoIntegrador\\Clases\\ComercioModelo.csproj"
               }
             }
           }

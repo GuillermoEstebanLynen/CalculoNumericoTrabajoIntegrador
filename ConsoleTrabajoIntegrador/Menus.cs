@@ -50,6 +50,9 @@ namespace ComercioConsola
                 case 6:
                     SubMenuFacturacion.MenuFacturacion();
                     break;
+                case 7:
+                    SalidaPrograma();
+                    break;
             }
 
         }

@@ -10,3 +10,15 @@ E:\ISTEA\Calculo Numerico\Trabajo Integrador\ComercioControlador\obj\Debug\netst
 E:\ISTEA\Calculo Numerico\Trabajo Integrador\ComercioControlador\obj\Debug\netstandard2.0\ComercioControlador.csproj.CopyComplete
 E:\ISTEA\Calculo Numerico\Trabajo Integrador\ComercioControlador\obj\Debug\netstandard2.0\ComercioControlador.dll
 E:\ISTEA\Calculo Numerico\Trabajo Integrador\ComercioControlador\obj\Debug\netstandard2.0\ComercioControlador.pdb
+E:\ISTEA\Calculo Numerico\CalculoNumericoTrabajoIntegrador\ComercioControlador\bin\Debug\netstandard2.0\ComercioControlador.deps.json
+E:\ISTEA\Calculo Numerico\CalculoNumericoTrabajoIntegrador\ComercioControlador\bin\Debug\netstandard2.0\ComercioControlador.dll
+E:\ISTEA\Calculo Numerico\CalculoNumericoTrabajoIntegrador\ComercioControlador\bin\Debug\netstandard2.0\ComercioControlador.pdb
+E:\ISTEA\Calculo Numerico\CalculoNumericoTrabajoIntegrador\ComercioControlador\bin\Debug\netstandard2.0\ComercioModelo.dll
+E:\ISTEA\Calculo Numerico\CalculoNumericoTrabajoIntegrador\ComercioControlador\bin\Debug\netstandard2.0\ComercioModelo.pdb
+E:\ISTEA\Calculo Numerico\CalculoNumericoTrabajoIntegrador\ComercioControlador\obj\Debug\netstandard2.0\ComercioControlador.csprojAssemblyReference.cache
+E:\ISTEA\Calculo Numerico\CalculoNumericoTrabajoIntegrador\ComercioControlador\obj\Debug\netstandard2.0\ComercioControlador.AssemblyInfoInputs.cache
+E:\ISTEA\Calculo Numerico\CalculoNumericoTrabajoIntegrador\ComercioControlador\obj\Debug\netstandard2.0\ComercioControlador.AssemblyInfo.cs
+E:\ISTEA\Calculo Numerico\CalculoNumericoTrabajoIntegrador\ComercioControlador\obj\Debug\netstandard2.0\ComercioControlador.csproj.CoreCompileInputs.cache
+E:\ISTEA\Calculo Numerico\CalculoNumericoTrabajoIntegrador\ComercioControlador\obj\Debug\netstandard2.0\ComercioControlador.csproj.CopyComplete
+E:\ISTEA\Calculo Numerico\CalculoNumericoTrabajoIntegrador\ComercioControlador\obj\Debug\netstandard2.0\ComercioControlador.dll
+E:\ISTEA\Calculo Numerico\CalculoNumericoTrabajoIntegrador\ComercioControlador\obj\Debug\netstandard2.0\ComercioControlador.pdb
