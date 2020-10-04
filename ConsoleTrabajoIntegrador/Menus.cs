@@ -3,8 +3,12 @@ using System.Collections.Generic;
 using System.Threading;
 using System.Net;
 using System.Text;
+using System.ComponentModel.DataAnnotations;
+using ComercioModelo;
+using ConsoleTrabajoIntegrador.SubMenus;
+using System.Runtime.CompilerServices;
 
-namespace ConsoleTrabajoIntegrador
+namespace ComercioConsola
 {
     class Menus
     {
@@ -15,73 +19,75 @@ namespace ConsoleTrabajoIntegrador
 
             //Lista de Opciones
             List<string> opciones = new List<string>();
+            opciones.Add("Categorias");
             opciones.Add("Productos");
+            opciones.Add("Empleados");
+            opciones.Add("Clientes");
+            opciones.Add("Realizar Venta");
+            opciones.Add("Facturación");
             opciones.Add("Salir Programa");
 
             Formatos.DibujarMenu("Bienvenido", opciones);
+            int opcionMenu = Validadores.ValidarOpcionMenu("Ingrese la opcion que desea elegir :", opciones.Count);
 
-            int opcionValidada = Validadores.ValidarEntero(opciones.Count);
-
-            switch (opcionValidada)
+            switch (opcionMenu)
             {
                 case 1:
-                    MenuProductos();
+                    SubMenuCategorias.MenuCategorias();
                     break;
                 case 2:
-                    SalidaPrograma();
+                    SubMenuProducto.MenuProductos();
+                    break;
+                case 3:
+                    SubMenuEmpleados.MenuEmpleados();
+                    break;
+                case 4:
+                    SubMenuClientes.MenuClientes();
+                    break;
+                case 5:
+                    RealizarVenta();
+                    break;
+                case 6:
+                    SubMenuFacturacion.MenuFacturacion();
                     break;
             }
 
         }
 
-        public static void MenuProductos()
+        private static void RealizarVenta()
         {
-            Console.Clear();
-
-            //Lista de Opciones
-            List<string> opciones = new List<string>();
-            opciones.Add("Mostrar todos los Productos");
-            opciones.Add("Mostrar cantidad de Productos");
-            opciones.Add("Volver al menu Home");
-
-            Formatos.DibujarMenu("Menu De Productos", opciones);
-
-            int opcionValidada = Validadores.ValidarEntero(opciones.Count);
-
-            switch (opcionValidada)
+            try
             {
-                case 1:
-                    MenuProductos();
-                    break;
-                case 2:
-                    SalidaPrograma();
-                    break;
-                case 3:
-                    Home();
-                    break;
-            }
+                SubMenuEmpleados.TablaEmpleados(Comercio.empleados);
+                int empleado = Validadores.ValidarOpcionMenu("Ingrese el Empleado que raliza la venta : ", Comercio.inventario.Count);
+                SubMenuClientes.TablaClientes(Comercio.clientes);
+                int cliente = Validadores.ValidarOpcionMenu("Ingrese el cliente que compra : ", Comercio.inventario.Count);
+                SubMenuProducto.TablaProductos(Comercio.inventario);
+                int producto = Validadores.ValidarOpcionMenu("Ingrese el producto que se vende : ", Comercio.inventario.Count);
+                int cantidad = Validadores.ValidarEntero("Ingrese la cantidad que se vende : ");
 
+                Comercio.ventas.Add(new Venta(Comercio.empleados[empleado-1], Comercio.clientes[cliente-1], Comercio.inventario[producto-1], cantidad));
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine();
+                Formatos.SetTextError(string.Format("Se ha producido el siguiene error: {0}", e.Message));
+                Validadores.EsperaTecla();
+            }
+            Home();
         }
 
         public static void SalidaPrograma()
         {
             Console.Clear();
 
-            Formatos.SetTextError();
-            Console.WriteLine("");
-            Console.WriteLine("¿Esta seguro que desea salir del programa? S/N");
-            Formatos.SetTextNormal();
+            Formatos.SetTextError("¿Esta seguro que desea salir del programa? S/N");
 
             ConsoleKeyInfo opcionValidada = Validadores.ValidarSalidaPrograma();
 
             if (opcionValidada.Key == ConsoleKey.Y)
             {
-                Console.WriteLine();
-                Formatos.SetTextSucess();
-                Console.WriteLine("");
-                Console.WriteLine("--------- QUE TENGA UN BUEN DIA!!! ----------");
-                Console.WriteLine("");
-                Formatos.SetTextNormal();
+                Formatos.SetTextSucess("--------- QUE TENGA UN BUEN DIA!!! ----------");
                 Thread.Sleep(2000);
                 Environment.Exit(1);
             }

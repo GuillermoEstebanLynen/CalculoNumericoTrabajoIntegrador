@@ -1,12 +1,12 @@
 ﻿using System;
+using ComercioModelo;
 
-namespace ConsoleTrabajoIntegrador
+namespace ComercioConsola
 {
     class Program
     {
         static void Main(string[] args)
         {
-            CargaInicial();
             Menus.Home();
         }
     }

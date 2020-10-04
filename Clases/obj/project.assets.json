@@ -185,9 +185,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\ISTEA\\Calculo Numerico\\Trabajo Integrador\\Clases\\Clases.csproj",
-      "projectName": "Clases",
-      "projectPath": "E:\\ISTEA\\Calculo Numerico\\Trabajo Integrador\\Clases\\Clases.csproj",
+      "projectUniqueName": "E:\\ISTEA\\Calculo Numerico\\Trabajo Integrador\\Clases\\ComercioModelo.csproj",
+      "projectName": "ComercioModelo",
+      "projectPath": "E:\\ISTEA\\Calculo Numerico\\Trabajo Integrador\\Clases\\ComercioModelo.csproj",
       "packagesPath": "C:\\Users\\Guillermo Lynen\\.nuget\\packages\\",
       "outputPath": "E:\\ISTEA\\Calculo Numerico\\Trabajo Integrador\\Clases\\obj\\",
       "projectStyle": "PackageReference",

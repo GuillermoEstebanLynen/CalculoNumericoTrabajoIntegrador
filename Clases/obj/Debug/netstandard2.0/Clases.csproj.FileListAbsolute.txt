@@ -1,0 +1,9 @@
+E:\ISTEA\Calculo Numerico\Trabajo Integrador\Clases\bin\Debug\netstandard2.0\Clases.deps.json
+E:\ISTEA\Calculo Numerico\Trabajo Integrador\Clases\bin\Debug\netstandard2.0\Clases.dll
+E:\ISTEA\Calculo Numerico\Trabajo Integrador\Clases\bin\Debug\netstandard2.0\Clases.pdb
+E:\ISTEA\Calculo Numerico\Trabajo Integrador\Clases\obj\Debug\netstandard2.0\Clases.csprojAssemblyReference.cache
+E:\ISTEA\Calculo Numerico\Trabajo Integrador\Clases\obj\Debug\netstandard2.0\Clases.AssemblyInfoInputs.cache
+E:\ISTEA\Calculo Numerico\Trabajo Integrador\Clases\obj\Debug\netstandard2.0\Clases.AssemblyInfo.cs
+E:\ISTEA\Calculo Numerico\Trabajo Integrador\Clases\obj\Debug\netstandard2.0\Clases.csproj.CoreCompileInputs.cache
+E:\ISTEA\Calculo Numerico\Trabajo Integrador\Clases\obj\Debug\netstandard2.0\Clases.dll
+E:\ISTEA\Calculo Numerico\Trabajo Integrador\Clases\obj\Debug\netstandard2.0\Clases.pdb

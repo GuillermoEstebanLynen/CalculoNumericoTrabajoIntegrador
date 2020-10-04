@@ -2,28 +2,46 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "Clases/1.0.0": {
+      "ComercioControlador/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "ComercioModelo": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ComercioControlador.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ComercioControlador.dll": {}
+        }
+      },
+      "ComercioModelo/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "compile": {
-          "bin/placeholder/Clases.dll": {}
+          "bin/placeholder/ComercioModelo.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Clases.dll": {}
+          "bin/placeholder/ComercioModelo.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Clases/1.0.0": {
+    "ComercioControlador/1.0.0": {
       "type": "project",
-      "path": "../Clases/Clases.csproj",
-      "msbuildProject": "../Clases/Clases.csproj"
+      "path": "../ComercioControlador/ComercioControlador.csproj",
+      "msbuildProject": "../ComercioControlador/ComercioControlador.csproj"
+    },
+    "ComercioModelo/1.0.0": {
+      "type": "project",
+      "path": "../Clases/ComercioModelo.csproj",
+      "msbuildProject": "../Clases/ComercioModelo.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "Clases >= 1.0.0"
+      "ComercioControlador >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -52,8 +70,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "E:\\ISTEA\\Calculo Numerico\\Trabajo Integrador\\Clases\\Clases.csproj": {
-              "projectPath": "E:\\ISTEA\\Calculo Numerico\\Trabajo Integrador\\Clases\\Clases.csproj"
+            "E:\\ISTEA\\Calculo Numerico\\Trabajo Integrador\\ComercioControlador\\ComercioControlador.csproj": {
+              "projectPath": "E:\\ISTEA\\Calculo Numerico\\Trabajo Integrador\\ComercioControlador\\ComercioControlador.csproj"
             }
           }
         }

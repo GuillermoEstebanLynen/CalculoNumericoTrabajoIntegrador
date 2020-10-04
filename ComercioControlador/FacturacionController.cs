@@ -1,11 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using Clases;
 
-namespace ConsoleTrabajoIntegrador
+namespace ComercioControlador
 {
-    class CargaInicial
+    class FacturacionController
     {
     }
 }
